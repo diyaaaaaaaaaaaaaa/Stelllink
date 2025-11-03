@@ -1,0 +1,11 @@
+C:\Users\prach\decentralized_url_shortener\target\wasm32v1-none\release\deps\wee_alloc-da6b9d47550de415.d: C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\lib.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\extra_assert.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\const_init.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\neighbors.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\imp_wasm32.rs
+
+C:\Users\prach\decentralized_url_shortener\target\wasm32v1-none\release\deps\libwee_alloc-da6b9d47550de415.rlib: C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\lib.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\extra_assert.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\const_init.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\neighbors.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\imp_wasm32.rs
+
+C:\Users\prach\decentralized_url_shortener\target\wasm32v1-none\release\deps\libwee_alloc-da6b9d47550de415.rmeta: C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\lib.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\extra_assert.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\const_init.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\neighbors.rs C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\imp_wasm32.rs
+
+C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\lib.rs:
+C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\extra_assert.rs:
+C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\const_init.rs:
+C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\neighbors.rs:
+C:\Users\prach\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wee_alloc-0.4.5\src\imp_wasm32.rs:
